@@ -1,0 +1,10 @@
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\bin\Debug\Es07_CostruzioneCoda.exe.config
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\bin\Debug\Es07_CostruzioneCoda.exe
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\bin\Debug\Es07_CostruzioneCoda.pdb
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.csprojAssemblyReference.cache
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.Form1.resources
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.Properties.Resources.resources
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.csproj.GenerateResource.cache
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.csproj.CoreCompileInputs.cache
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.exe
+D:\INFORMATICA\Info teoria\OOP\Es07_CostruzioneCoda\Es07_CostruzioneCoda\obj\Debug\Es07_CostruzioneCoda.pdb

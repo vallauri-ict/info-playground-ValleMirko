@@ -1,0 +1,9 @@
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\bin\Debug\Es09_Mostro-e-vamipro.exe.config
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\bin\Debug\Es09_Mostro-e-vamipro.exe
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\bin\Debug\Es09_Mostro-e-vamipro.pdb
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\obj\Debug\Es09_Mostro-e-vamipro.csprojAssemblyReference.cache
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\obj\Debug\Es09_Mostro_e_vamipro.Form1.resources
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\obj\Debug\Es09_Mostro_e_vamipro.Properties.Resources.resources
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\obj\Debug\Es09_Mostro-e-vamipro.csproj.GenerateResource.cache
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\obj\Debug\Es09_Mostro-e-vamipro.exe
+I:\INFORMATICA\Info teoria\OOP\Es09_Mostro-e-vamipro\Es09_Mostro-e-vamipro\obj\Debug\Es09_Mostro-e-vamipro.pdb
