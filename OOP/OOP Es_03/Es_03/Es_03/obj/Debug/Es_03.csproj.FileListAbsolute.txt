@@ -1,0 +1,5 @@
+D:\INFORMATICA\Info teoria\OOP\OOP Es_03\Es_03\Es_03\obj\Debug\Es_03.csproj.AssemblyReference.cache
+D:\INFORMATICA\Info teoria\OOP\OOP Es_03\Es_03\Es_03\obj\Debug\Es_03.Form1.resources
+D:\INFORMATICA\Info teoria\OOP\OOP Es_03\Es_03\Es_03\obj\Debug\Es_03.Properties.Resources.resources
+D:\INFORMATICA\Info teoria\OOP\OOP Es_03\Es_03\Es_03\obj\Debug\Es_03.csproj.GenerateResource.cache
+D:\INFORMATICA\Info teoria\OOP\OOP Es_03\Es_03\Es_03\obj\Debug\Es_03.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\bin\Debug\Es_04 Eriditarieta02.exe.config
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\bin\Debug\Es_04 Eriditarieta02.exe
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\bin\Debug\Es_04 Eriditarieta02.pdb
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.csprojAssemblyReference.cache
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04_Eriditarieta02.Form1.resources
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04_Eriditarieta02.Properties.Resources.resources
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.csproj.GenerateResource.cache
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.exe
+C:\Users\m.valle.1393\Desktop\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.pdb
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\bin\Debug\Es_04 Eriditarieta02.exe.config
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\bin\Debug\Es_04 Eriditarieta02.exe
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\bin\Debug\Es_04 Eriditarieta02.pdb
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.csprojAssemblyReference.cache
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04_Eriditarieta02.Form1.resources
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04_Eriditarieta02.Properties.Resources.resources
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.csproj.GenerateResource.cache
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.exe
+I:\INFORMATICA\Info teoria\OOP\Es_04 Eriditarieta02\Es_04 Eriditarieta02\obj\Debug\Es_04 Eriditarieta02.pdb
