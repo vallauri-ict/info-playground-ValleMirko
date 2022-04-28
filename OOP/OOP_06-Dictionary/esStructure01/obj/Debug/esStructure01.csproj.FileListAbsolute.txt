@@ -1,0 +1,28 @@
+F:\c#_4\esStructure01\esStructure01\bin\Debug\esStructure01.exe.config
+F:\c#_4\esStructure01\esStructure01\bin\Debug\esStructure01.exe
+F:\c#_4\esStructure01\esStructure01\bin\Debug\esStructure01.pdb
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.csprojAssemblyReference.cache
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.Form1.resources
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.Properties.Resources.resources
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.csproj.GenerateResource.cache
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.csproj.CoreCompileInputs.cache
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.exe
+F:\c#_4\esStructure01\esStructure01\obj\Debug\esStructure01.pdb
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\bin\Debug\esStructure01.exe.config
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\obj\Debug\esStructure01.exe
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\obj\Debug\esStructure01.pdb
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\bin\Debug\esStructure01.exe
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\bin\Debug\esStructure01.pdb
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\obj\Debug\esStructure01.csprojResolveAssemblyReference.cache
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\obj\Debug\esStructure01.Form1.resources
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\obj\Debug\esStructure01.Properties.Resources.resources
+J:\INFORMATICA\c#\Visuale 2019-2020\esStructure01\esStructure01\obj\Debug\esStructure01.csproj.GenerateResource.Cache
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\bin\Debug\esStructure01.exe.config
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\bin\Debug\esStructure01.exe
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\bin\Debug\esStructure01.pdb
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\obj\Debug\esStructure01.csprojAssemblyReference.cache
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\obj\Debug\esStructure01.Form1.resources
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\obj\Debug\esStructure01.Properties.Resources.resources
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\obj\Debug\esStructure01.csproj.GenerateResource.cache
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\obj\Debug\esStructure01.exe
+I:\INFORMATICA\Info teoria\Teoria\07-Dictionary\esStructure01\obj\Debug\esStructure01.pdb
